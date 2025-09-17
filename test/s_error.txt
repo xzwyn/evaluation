@@ -1,0 +1,50 @@
+Summary of Inserted Errors
+Error 1: Semantic Inversion (Opposite Meaning)
+
+Location: Resilienz­analyse, fourth paragraph, first sentence.
+
+Original Correct German: "...bestätigen die Widerstandsfähigkeit unserer Strategie und unseres Geschäftsmodells..."
+
+Modified Incorrect German: "...stellen die Widerstandsfähigkeit unserer Strategie und unseres Geschäftsmodells in Frage."
+
+Analysis: This is a critical semantic inversion. The original verb bestätigen means "to confirm," conveying a message of strength and confidence. It has been replaced with in Frage stellen, which means "to call into question" or "to doubt." This single change flips the entire meaning of a key concluding sentence, transforming a statement that validates the company's resilience into one that expresses fundamental doubt about it. For a pipeline, this tests the ability to recognize how a verb phrase can completely reverse the sentiment and strategic message of a sentence.
+
+Error 2: Conceptual Mistranslation (Technical Term)
+
+Location: Finanzielle Effekte, last sentence of the second paragraph.
+
+Original Correct German: "Einzelheiten zu unseren Rechnungslegungsprinzipien finden Sie unter Angabe 2..."
+
+Modified Incorrect German: "Einzelheiten zu unseren Rechnungslegungsvorschlägen finden Sie unter Angabe 2..."
+
+Analysis: This error replaces a binding technical term with a non-binding, speculative one. Rechnungslegungsprinzipien (accounting principles) refers to the mandatory standards (like IFRS) that the company must follow. Rechnungslegungsvorschlägen (accounting proposals/suggestions) implies these are merely ideas or non-binding recommendations. In the context of a formal financial disclosure, this is a severe misrepresentation. It suggests the company is not adhering to established rules but is following mere suggestions, which would be a major red flag for auditors and investors. This tests the pipeline's domain-specific vocabulary in finance and accounting.
+
+Error 3: Omission of Critical Scope
+
+Location: Verfahren zur Identifizierung..., first paragraph, second sentence.
+
+Original Correct German: "...Risiken und Chancen, die kurz- (bis zu einem Jahr), mittel- (ein bis fünf Jahre) oder langfristig (mehr als fünf Jahre) eintreten (können)..."
+
+Modified Incorrect German: "...Risiken und Chancen, die kurzfristig (bis zu einem Jahr) eintreten (können)..."
+
+Analysis: This error critically narrows the scope of the company's risk assessment by omitting the medium- and long-term horizons. Sustainability and ESG reporting are fundamentally concerned with long-term resilience. By deleting the words mittel- and oder langfristig, the sentence now falsely claims that the company's entire materiality assessment is limited to short-term issues (up to one year). This implies a dangerously myopic and non-compliant approach to sustainability risk management, completely misrepresenting the company's process.
+
+Error 4: Logical Contradiction via Addition
+
+Location: Verfahren zur Identifizierung..., second paragraph, second sentence.
+
+Original Correct German: "Er basiert auf unseren Nachhaltigkeitsprozessen und -leitlinien, die eingeführt wurden, um wesentliche Auswirkungen, Risiken und Chancen zu adressieren."
+
+Modified Incorrect German: "Er basiert auf unseren Nachhaltigkeitsprozessen und -leitlinien, die eingeführt wurden, um wesentliche Auswirkungen, Risiken und Chancen zu adressieren, obwohl deren Wirksamkeit intern umstritten ist."
+
+Analysis: The added clause, "obwohl deren Wirksamkeit intern umstritten ist" ("although their effectiveness is internally disputed"), creates a severe logical contradiction. It completely undermines the credibility of the process being described. The sentence now states that the company's core process is based on guidelines that the company itself does not trust. This suggests significant internal governance failures and makes the entire section appear unreliable. This tests a pipeline's ability to detect logical inconsistencies within a single sentence.
+
+Error 5: Conceptual Mistranslation (False Friend)
+
+Location: In ESRS enthaltene..., first paragraph, second sentence.
+
+Original Correct German: "Wir orientieren uns bei der Festlegung der Grenzen unserer Berichterstattung an den Vorgaben der ESRS."
+
+Modified Incorrect German: "Wir orientieren uns bei der Festlegung der Grenzen unserer Berichterstattung an den Vorwänden der ESRS."
+
+Analysis: This is a subtle but devastating "false friend" error. The correct word, Vorgaben, means "requirements," "specifications," or "guidelines"—a neutral and appropriate term for regulatory standards. The implanted word, Vorwänden, means "pretexts" or "excuses." This changes the meaning from "we follow the ESRS requirements" to "we use the ESRS excuses." It implies that the company views the regulatory framework not as a legitimate standard to be followed, but as a disingenuous cover for its actions. This completely misrepresents the company's stance on compliance and corporate governance.
